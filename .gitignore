@@ -3,7 +3,7 @@ node_modules
 logsData
 config
 vistas_test_compra
-app.js
+databasDelete.js
 dbDAO.js
 mariaDB.js
 img
