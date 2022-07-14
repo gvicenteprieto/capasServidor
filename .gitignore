@@ -1,0 +1,10 @@
+node_modules
+.env
+logsData
+config
+vistas_test_compra
+app.js
+dbDAO.js
+mariaDB.js
+img
+src/databasDelete.js
